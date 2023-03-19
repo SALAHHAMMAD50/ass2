@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "525915687080",
+    "firebase_url": "https://my-projct-2c2ff-default-rtdb.firebaseio.com",
+    "project_id": "my-projct-2c2ff",
+    "storage_bucket": "my-projct-2c2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525915687080:android:0cce57eea0724ccaa35a9d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1WpNiHn7CSR63KSsyfmcs6Wvy_L55yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525915687080:android:3d1df973b0104b44a35a9d",
+        "android_client_info": {
+          "package_name": "com.salahProm.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1WpNiHn7CSR63KSsyfmcs6Wvy_L55yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525915687080:android:ed9efcbd52a5f1c3a35a9d",
+        "android_client_info": {
+          "package_name": "com.salahprom.ass2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1WpNiHn7CSR63KSsyfmcs6Wvy_L55yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525915687080:android:289b36ee30c0034ca35a9d",
+        "android_client_info": {
+          "package_name": "com.salahprom.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1WpNiHn7CSR63KSsyfmcs6Wvy_L55yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525915687080:android:33ddcaa1bc764a48a35a9d",
+        "android_client_info": {
+          "package_name": "com.salahprom.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1WpNiHn7CSR63KSsyfmcs6Wvy_L55yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525915687080-049le2a8hvoss3p8sf16a3qgm510jn2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
